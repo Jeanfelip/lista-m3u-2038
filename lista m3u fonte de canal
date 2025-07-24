@@ -1,0 +1,1483 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 01" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/11600
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 02" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/11601
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 03" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/11602
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil 04" tvg-logo="http://www.fontedecanais.org/logos/canais/powercouplebrasil.png" group-title="Canais | Power Couple Brasil",Power Couple Brasil 04
+http://hubby.run:80/Visionplay/lSsvVuKxun/11603
+#EXTINF:-1 tvg-id="86" tvg-name="A&E FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="Canais | Variedades",A&E FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12000
+#EXTINF:-1 tvg-id="86" tvg-name="A&E HD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="Canais | Variedades",A&E HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12001
+#EXTINF:-1 tvg-id="86" tvg-name="A&E SD" tvg-logo="http://www.fontedecanais.org/logos/canais/ae.png" group-title="Canais | Variedades",A&E SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12002
+#EXTINF:-1 tvg-id="101" tvg-name="BIS FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12003
+#EXTINF:-1 tvg-id="101" tvg-name="BIS HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bis.png" group-title="Canais | Variedades",BIS HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12004
+#EXTINF:-1 tvg-id="101" tvg-name="BIS SD" tvg-logo="http://www.fontedecanais.org/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12005
+#EXTINF:-1 tvg-id="21" tvg-name="Comedy Central FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12009
+#EXTINF:-1 tvg-id="21" tvg-name="Comedy Central HD" tvg-logo="http://www.fontedecanais.org/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12010
+#EXTINF:-1 tvg-id="21" tvg-name="Comedy Central SD" tvg-logo="http://www.fontedecanais.org/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12011
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12012
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12013
+#EXTINF:-1 tvg-id="8" tvg-name="Discovery H&H SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryhh.png" group-title="Canais | Variedades",Discovery H&H SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12014
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12015
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12016
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryturbo.png" group-title="Canais | Variedades",Discovery Turbo SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12017
+#EXTINF:-1 tvg-id="87" tvg-name="E! FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/e.png" group-title="Canais | Variedades",E! FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12018
+#EXTINF:-1 tvg-id="87" tvg-name="E! HD" tvg-logo="http://www.fontedecanais.org/logos/canais/e.png" group-title="Canais | Variedades",E! HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12019
+#EXTINF:-1 tvg-id="87" tvg-name="E! SD" tvg-logo="http://www.fontedecanais.org/logos/canais/e.png" group-title="Canais | Variedades",E! SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12020
+#EXTINF:-1 tvg-id="40" tvg-name="FishTV FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12021
+#EXTINF:-1 tvg-id="40" tvg-name="FishTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12022
+#EXTINF:-1 tvg-id="40" tvg-name="FishTV SD" tvg-logo="http://www.fontedecanais.org/logos/canais/fishtv.png" group-title="Canais | Variedades",FishTV SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12023
+#EXTINF:-1 tvg-id="52" tvg-name="Food Network FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12024
+#EXTINF:-1 tvg-id="52" tvg-name="Food Network HD" tvg-logo="http://www.fontedecanais.org/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12025
+#EXTINF:-1 tvg-id="52" tvg-name="Food Network SD" tvg-logo="http://www.fontedecanais.org/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12026
+#EXTINF:-1 tvg-id="97" tvg-name="GNT FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/gnt.png" group-title="Canais | Variedades",GNT FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12027
+#EXTINF:-1 tvg-id="97" tvg-name="GNT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/gnt.png" group-title="Canais | Variedades",GNT HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12028
+#EXTINF:-1 tvg-id="97" tvg-name="GNT SD" tvg-logo="http://www.fontedecanais.org/logos/canais/gnt.png" group-title="Canais | Variedades",GNT SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12029
+#EXTINF:-1 tvg-id="88" tvg-name="Lifetime FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12030
+#EXTINF:-1 tvg-id="88" tvg-name="Lifetime HD" tvg-logo="http://www.fontedecanais.org/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12031
+#EXTINF:-1 tvg-id="88" tvg-name="Lifetime SD" tvg-logo="http://www.fontedecanais.org/logos/canais/lifetime.png" group-title="Canais | Variedades",Lifetime SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12032
+#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12033
+#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem HD" tvg-logo="http://www.fontedecanais.org/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12034
+#EXTINF:-1 tvg-id="100" tvg-name="Modo Viagem SD" tvg-logo="http://www.fontedecanais.org/logos/canais/modoviagem.png" group-title="Canais | Variedades",Modo Viagem SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12035
+#EXTINF:-1 tvg-id="22" tvg-name="MTV FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtv.png" group-title="Canais | Variedades",MTV FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12036
+#EXTINF:-1 tvg-id="22" tvg-name="MTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtv.png" group-title="Canais | Variedades",MTV HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12037
+#EXTINF:-1 tvg-id="22" tvg-name="MTV SD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtv.png" group-title="Canais | Variedades",MTV SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12038
+#EXTINF:-1 tvg-id="64" tvg-name="Trace Brasil FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12039
+#EXTINF:-1 tvg-id="64" tvg-name="Trace Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12040
+#EXTINF:-1 tvg-id="64" tvg-name="Trace Brasil SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tracebrasil.png" group-title="Canais | Variedades",Trace Brasil SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12041
+#EXTINF:-1 tvg-id="179" tvg-name="MTV Live FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtvlive.png" group-title="Canais | Variedades",MTV Live FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12042
+#EXTINF:-1 tvg-id="179" tvg-name="MTV Live HD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtvlive.png" group-title="Canais | Variedades",MTV Live HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12043
+#EXTINF:-1 tvg-id="179" tvg-name="MTV Live SD" tvg-logo="http://www.fontedecanais.org/logos/canais/mtvlive.png" group-title="Canais | Variedades",MTV Live SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12044
+#EXTINF:-1 tvg-id="98" tvg-name="Multishow FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12045
+#EXTINF:-1 tvg-id="98" tvg-name="Multishow HD" tvg-logo="http://www.fontedecanais.org/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12046
+#EXTINF:-1 tvg-id="98" tvg-name="Multishow SD" tvg-logo="http://www.fontedecanais.org/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12047
+#EXTINF:-1 tvg-id="96" tvg-name="Off FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/off.png" group-title="Canais | Variedades",Off FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12048
+#EXTINF:-1 tvg-id="96" tvg-name="Off HD" tvg-logo="http://www.fontedecanais.org/logos/canais/off.png" group-title="Canais | Variedades",Off HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12049
+#EXTINF:-1 tvg-id="96" tvg-name="Off SD" tvg-logo="http://www.fontedecanais.org/logos/canais/off.png" group-title="Canais | Variedades",Off SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12050
+#EXTINF:-1 tvg-id="12" tvg-name="TLC FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tlc.png" group-title="Canais | Variedades",TLC FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12051
+#EXTINF:-1 tvg-id="12" tvg-name="TLC HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tlc.png" group-title="Canais | Variedades",TLC HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12052
+#EXTINF:-1 tvg-id="12" tvg-name="TLC SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tlc.png" group-title="Canais | Variedades",TLC SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12053
+#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12054
+#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12055
+#EXTINF:-1 tvg-id="75" tvg-name="Travel Box Brazil SD" tvg-logo="http://www.fontedecanais.org/logos/canais/travelboxbrazil.png" group-title="Canais | Variedades",Travel Box Brazil SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12056
+#EXTINF:-1 tvg-id="322" tvg-name="Adult Swim FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12057
+#EXTINF:-1 tvg-id="322" tvg-name="Adult Swim HD" tvg-logo="http://www.fontedecanais.org/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12058
+#EXTINF:-1 tvg-id="322" tvg-name="Adult Swim SD" tvg-logo="http://www.fontedecanais.org/logos/canais/adultswim.png" group-title="Canais | Variedades",Adult Swim SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12059
+#EXTINF:-1 tvg-id="99" tvg-name="Globoplay Novelas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12060
+#EXTINF:-1 tvg-id="99" tvg-name="Globoplay Novelas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12061
+#EXTINF:-1 tvg-id="99" tvg-name="Globoplay Novelas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/viva.png" group-title="Canais | Variedades",Globoplay Novelas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12062
+#EXTINF:-1 tvg-id="48" tvg-name="WooHoo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12063
+#EXTINF:-1 tvg-id="48" tvg-name="WooHoo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12064
+#EXTINF:-1 tvg-id="48" tvg-name="WooHoo SD" tvg-logo="http://www.fontedecanais.org/logos/canais/woohoo.png" group-title="Canais | Variedades",WooHoo SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/12065
+#EXTINF:-1 tvg-id="33" tvg-name="AMC FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13000
+#EXTINF:-1 tvg-id="33" tvg-name="AMC HD" tvg-logo="http://www.fontedecanais.org/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13001
+#EXTINF:-1 tvg-id="33" tvg-name="AMC SD" tvg-logo="http://www.fontedecanais.org/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13002
+#EXTINF:-1 tvg-id="79" tvg-name="AXN FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13003
+#EXTINF:-1 tvg-id="79" tvg-name="AXN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13004
+#EXTINF:-1 tvg-id="79" tvg-name="AXN SD" tvg-logo="http://www.fontedecanais.org/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13005
+#EXTINF:-1 tvg-id="104" tvg-name="Canal Brasil FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13006
+#EXTINF:-1 tvg-id="104" tvg-name="Canal Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13007
+#EXTINF:-1 tvg-id="104" tvg-name="Canal Brasil SD" tvg-logo="http://www.fontedecanais.org/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13008
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13009
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13010
+#EXTINF:-1 tvg-id="178" tvg-name="Cinemax SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cinemax.png" group-title="Canais | Filmes e Séries",Cinemax SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13011
+#EXTINF:-1 tvg-id="105" tvg-name="Megapix FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13015
+#EXTINF:-1 tvg-id="105" tvg-name="Megapix HD" tvg-logo="http://www.fontedecanais.org/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13016
+#EXTINF:-1 tvg-id="105" tvg-name="Megapix SD" tvg-logo="http://www.fontedecanais.org/logos/canais/megapix.png" group-title="Canais | Filmes e Séries",Megapix SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13017
+#EXTINF:-1 tvg-id="16" tvg-name="Paramount Network FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/paramountchannel.png" group-title="Canais | Filmes e Séries",Paramount Network FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13018
+#EXTINF:-1 tvg-id="16" tvg-name="Paramount Network HD" tvg-logo="http://www.fontedecanais.org/logos/canais/paramountchannel.png" group-title="Canais | Filmes e Séries",Paramount Network HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13019
+#EXTINF:-1 tvg-id="16" tvg-name="Paramount Network SD" tvg-logo="http://www.fontedecanais.org/logos/canais/paramountchannel.png" group-title="Canais | Filmes e Séries",Paramount Network SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13020
+#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13021
+#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13022
+#EXTINF:-1 tvg-id="82" tvg-name="Sony Channel SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonychannel.png" group-title="Canais | Filmes e Séries",Sony Channel SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13023
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13024
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13025
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sonymovies.png" group-title="Canais | Filmes e Séries",Sony Movies SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13026
+#EXTINF:-1 tvg-id="10" tvg-name="Space FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13027
+#EXTINF:-1 tvg-id="10" tvg-name="Space HD" tvg-logo="http://www.fontedecanais.org/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13028
+#EXTINF:-1 tvg-id="10" tvg-name="Space SD" tvg-logo="http://www.fontedecanais.org/logos/canais/space.png" group-title="Canais | Filmes e Séries",Space SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13029
+#EXTINF:-1 tvg-id="103" tvg-name="USA FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13033
+#EXTINF:-1 tvg-id="103" tvg-name="USA HD" tvg-logo="http://www.fontedecanais.org/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13034
+#EXTINF:-1 tvg-id="103" tvg-name="USA SD" tvg-logo="http://www.fontedecanais.org/logos/canais/usa.png" group-title="Canais | Filmes e Séries",USA SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13035
+#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13036
+#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13037
+#EXTINF:-1 tvg-id="299" tvg-name="TNT Novelas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntnovelas.png" group-title="Canais | Filmes e Séries",TNT Novelas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13038
+#EXTINF:-1 tvg-id="9" tvg-name="TNT FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13039
+#EXTINF:-1 tvg-id="9" tvg-name="TNT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13040
+#EXTINF:-1 tvg-id="9" tvg-name="TNT SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13041
+#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13042
+#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13043
+#EXTINF:-1 tvg-id="20" tvg-name="TNT Séries SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tntseries.png" group-title="Canais | Filmes e Séries",TNT Séries SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13044
+#EXTINF:-1 tvg-id="102" tvg-name="Universal TV FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13045
+#EXTINF:-1 tvg-id="102" tvg-name="Universal TV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13046
+#EXTINF:-1 tvg-id="102" tvg-name="Universal TV SD" tvg-logo="http://www.fontedecanais.org/logos/canais/universaltv.png" group-title="Canais | Filmes e Séries",Universal TV SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13047
+#EXTINF:-1 tvg-id="106" tvg-name="Studio Universal FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13048
+#EXTINF:-1 tvg-id="106" tvg-name="Studio Universal HD" tvg-logo="http://www.fontedecanais.org/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13049
+#EXTINF:-1 tvg-id="106" tvg-name="Studio Universal SD" tvg-logo="http://www.fontedecanais.org/logos/canais/studiouniversal.png" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13050
+#EXTINF:-1 tvg-id="83" tvg-name="Warner Channel FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13051
+#EXTINF:-1 tvg-id="83" tvg-name="Warner Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13052
+#EXTINF:-1 tvg-id="83" tvg-name="Warner Channel SD" tvg-logo="http://www.fontedecanais.org/logos/canais/warnerchannel.png" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13053
+#EXTINF:-1 tvg-id="47" tvg-name="TCM FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13054
+#EXTINF:-1 tvg-id="47" tvg-name="TCM HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13055
+#EXTINF:-1 tvg-id="47" tvg-name="TCM SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13056
+#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13057
+#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts HD" tvg-logo="http://www.fontedecanais.org/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13058
+#EXTINF:-1 tvg-id="51" tvg-name="Film & Arts SD" tvg-logo="http://www.fontedecanais.org/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/13059
+#EXTINF:-1 tvg-id="260" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14000
+#EXTINF:-1 tvg-id="260" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14001
+#EXTINF:-1 tvg-id="260" tvg-name="HBO SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14002
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14003
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14004
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14005
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14006
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14007
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14008
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14009
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14010
+#EXTINF:-1 tvg-id="266" tvg-name="HBO Mundi SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14011
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14012
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14013
+#EXTINF:-1 tvg-id="262" tvg-name="HBO Plus SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14014
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14015
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14016
+#EXTINF:-1 tvg-id="265" tvg-name="HBO Pop SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14017
+#EXTINF:-1 tvg-id="264" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14018
+#EXTINF:-1 tvg-id="264" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14019
+#EXTINF:-1 tvg-id="264" tvg-name="HBO Signature SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14020
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14021
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14022
+#EXTINF:-1 tvg-id="267" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/14023
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15000
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15001
+#EXTINF:-1 tvg-id="69" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15002
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15003
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15004
+#EXTINF:-1 tvg-id="73" tvg-name="Telecine Cult SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15005
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15006
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15007
+#EXTINF:-1 tvg-id="71" tvg-name="Telecine Fun SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15008
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15009
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15010
+#EXTINF:-1 tvg-id="72" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15011
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15012
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15013
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15014
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15015
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15016
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedecanais.org/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/15017
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/16000
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/16001
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/16002
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 04
+http://hubby.run:80/Visionplay/lSsvVuKxun/16003
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 05
+http://hubby.run:80/Visionplay/lSsvVuKxun/16004
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 06
+http://hubby.run:80/Visionplay/lSsvVuKxun/16005
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 07
+http://hubby.run:80/Visionplay/lSsvVuKxun/16006
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 08
+http://hubby.run:80/Visionplay/lSsvVuKxun/16007
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 09
+http://hubby.run:80/Visionplay/lSsvVuKxun/16008
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="http://www.fontedecanais.org/logos/canais/cinesky.png" group-title="Canais | Cine SKY",Cine SKY 10
+http://hubby.run:80/Visionplay/lSsvVuKxun/16009
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band SP FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17000
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP HD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band SP HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17001
+#EXTINF:-1 tvg-id="174" tvg-name="Band SP SD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17002
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band RJ FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17053
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band RJ HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17054
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ SD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band RJ SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17055
+#EXTINF:-1 tvg-id="" tvg-name="Band MG FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band MG FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17056
+#EXTINF:-1 tvg-id="" tvg-name="Band MG HD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band MG HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17057
+#EXTINF:-1 tvg-id="" tvg-name="Band MG SD" tvg-logo="http://www.fontedecanais.org/logos/canais/band.png" group-title="Canais | Abertos",Band MG SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17058
+#EXTINF:-1 tvg-id="175" tvg-name="Cultura FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17003
+#EXTINF:-1 tvg-id="175" tvg-name="Cultura HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17004
+#EXTINF:-1 tvg-id="175" tvg-name="Cultura SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17005
+#EXTINF:-1 tvg-id="95" tvg-name="Futura FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17006
+#EXTINF:-1 tvg-id="95" tvg-name="Futura HD" tvg-logo="http://www.fontedecanais.org/logos/canais/futura.png" group-title="Canais | Abertos",Futura HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17007
+#EXTINF:-1 tvg-id="95" tvg-name="Futura SD" tvg-logo="http://www.fontedecanais.org/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17008
+#EXTINF:-1 tvg-id="317" tvg-name="Record TV SP FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17009
+#EXTINF:-1 tvg-id="317" tvg-name="Record TV SP HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17010
+#EXTINF:-1 tvg-id="317" tvg-name="Record TV SP SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV SP SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17011
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Rio FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17012
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Rio HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17013
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Rio SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Rio SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17014
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Minas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17015
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Minas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17016
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Minas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17017
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV RS FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17018
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV RS HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17019
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV RS SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17020
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Bahia FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17021
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Bahia HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17022
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Bahia SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Bahia SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17023
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Brasília FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17024
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Brasília HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17025
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasília SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Brasília SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17026
+#EXTINF:-1 tvg-id="" tvg-name="Record TV GO FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV GO FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17027
+#EXTINF:-1 tvg-id="" tvg-name="Record TV GO HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV GO HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17028
+#EXTINF:-1 tvg-id="" tvg-name="Record TV GO SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV GO SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17029
+#EXTINF:-1 tvg-id="" tvg-name="Record TV BE FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV BE FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17030
+#EXTINF:-1 tvg-id="" tvg-name="Record TV BE HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV BE HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17031
+#EXTINF:-1 tvg-id="" tvg-name="Record TV BE SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV BE SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17032
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Manaus FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17033
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus HD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Manaus HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17034
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus SD" tvg-logo="http://www.fontedecanais.org/logos/canais/record.png" group-title="Canais | Abertos",Record TV Manaus SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17035
+#EXTINF:-1 tvg-id="185" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17036
+#EXTINF:-1 tvg-id="185" tvg-name="RedeTV! HD" tvg-logo="http://www.fontedecanais.org/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17037
+#EXTINF:-1 tvg-id="185" tvg-name="RedeTV! SD" tvg-logo="http://www.fontedecanais.org/logos/canais/redetv.png" group-title="Canais | Abertos",RedeTV! SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17038
+#EXTINF:-1 tvg-id="184" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17039
+#EXTINF:-1 tvg-id="184" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17040
+#EXTINF:-1 tvg-id="184" tvg-name="SBT SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/17041
+#EXTINF:-1 tvg-id="328" tvg-name="Canal do Boi" tvg-logo="https://www.fontedecanais.org/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
+http://hubby.run:80/Visionplay/lSsvVuKxun/17042
+#EXTINF:-1 tvg-id="338" tvg-name="Canal Rural" tvg-logo="https://www.fontedecanais.org/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural
+http://hubby.run:80/Visionplay/lSsvVuKxun/17043
+#EXTINF:-1 tvg-id="61" tvg-name="TV Brasil" tvg-logo="https://www.fontedecanais.org/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil
+http://hubby.run:80/Visionplay/lSsvVuKxun/17044
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara" tvg-logo="https://www.fontedecanais.org/logos/canais/tvcamara.png" group-title="Canais | Abertos",TV Camara
+http://hubby.run:80/Visionplay/lSsvVuKxun/17045
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica e Radio Justica" tvg-logo="https://www.fontedecanais.org/logos/canais/tvjustica.png" group-title="Canais | Abertos",TV Justica e Radio Justica
+http://hubby.run:80/Visionplay/lSsvVuKxun/17046
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado" tvg-logo="https://www.fontedecanais.org/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado
+http://hubby.run:80/Visionplay/lSsvVuKxun/17047
+#EXTINF:-1 tvg-id="80" tvg-name="Agro+" tvg-logo="http://www.fontedecanais.org/logos/canais/agromais.png" group-title="Canais | Abertos",Agro+
+http://hubby.run:80/Visionplay/lSsvVuKxun/17049
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/0idNHMj.png" group-title="Canais | Abertos",Terra Viva
+http://hubby.run:80/Visionplay/lSsvVuKxun/17050
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="http://i.imgur.com/IWGyp65.jpeg" group-title="Canais | Abertos",TVE Bahia
+http://hubby.run:80/Visionplay/lSsvVuKxun/17051
+#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica" tvg-logo="https://i.imgur.com/LXvCAY1.png" group-title="Canais | Abertos",TV A Crítica
+http://hubby.run:80/Visionplay/lSsvVuKxun/17052
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18000
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18001
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Campinas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18002
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18003
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18004
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Central SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18005
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18006
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18007
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Ribeirão SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18008
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18009
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18010
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",EPTV Sul de Minas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18011
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18012
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18013
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Brasília SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18014
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18015
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18016
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Minas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18017
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18018
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18019
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Nordeste SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18020
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18021
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18022
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo Rio SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18023
+#EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18024
+#EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18025
+#EXTINF:-1 tvg-id="124" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Globo São Paulo SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18026
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18027
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18028
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Alto Litoral SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18029
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18030
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18031
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Cabugi SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18032
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18033
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18034
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Costa Branca SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18035
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18036
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18037
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV dos Vales SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18038
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18039
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18040
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Grande Minas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18041
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18042
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18043
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Planície SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18044
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18045
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18046
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Inter TV Serra Mar SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18047
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18048
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18049
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Caxias do Sul SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18050
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18051
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18052
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Centro-Oeste SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18053
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18054
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18055
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Chapecó SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18056
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18057
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18058
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Criciúma SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18059
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18060
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18061
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Florianópolis SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18062
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18063
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18064
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Joinville SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18065
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18066
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18067
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Porto Alegre SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18068
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18069
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18070
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Macapá SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Macapá SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18071
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18072
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18073
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Manaus SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18074
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18075
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18076
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Parintins SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18077
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18078
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18079
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Porto Velho SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18080
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18081
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18082
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Boa Vista SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18083
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18084
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18085
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Rede Amazônica Rio Branco SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18086
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18087
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18088
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Cascavel SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18089
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18090
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18091
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Curitiba SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18092
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18093
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18094
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Foz do Iguaçu SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18095
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18096
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18097
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Guarapuava SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18098
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18099
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18100
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Londrina SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18101
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18102
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18103
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Maringá SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18104
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18105
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18106
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Paranavaí SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18107
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18108
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18109
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RPC Ponta Grossa SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18110
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18111
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18112
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Alvorada do Sul SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18113
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18114
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18115
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Goiânia SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18116
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18117
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18118
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Asa Branca SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18119
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18120
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18121
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Bahia SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18122
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18123
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18124
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Cabo Branco SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18125
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18126
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18127
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-américa Cuiabá SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18128
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Clube FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18129
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Clube HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18130
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Clube SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18131
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18132
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18133
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Fronteira SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18134
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18135
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18136
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitória SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Vitória SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18137
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18138
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18139
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Grande Rio SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18140
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18141
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18142
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Ituiutaba SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18143
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18144
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18145
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberlândia SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18146
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18147
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18148
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Liberal Belém SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18149
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18150
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18151
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Balsas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18152
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18153
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18154
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Cocais SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18155
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18156
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18157
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante Imperatriz SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18158
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18159
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18160
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Mirante São Luís SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18161
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18162
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18163
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Campo Grande SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18164
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18165
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18166
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Oeste SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18167
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18168
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18169
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Paraíba SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18170
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18171
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18172
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Rio Sul SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18173
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18174
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18175
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Santa Cruz SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18176
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18177
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18178
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV São Francisco SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18179
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18180
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18181
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sergipe SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18182
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18183
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18184
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Subaé SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18185
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18186
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18187
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Sudoeste SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18188
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18189
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18190
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Bauru SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18191
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18192
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18193
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Itapetininga SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18194
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18195
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18196
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM São José do Rio Preto SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18197
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18198
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18199
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV TEM Sorocaba  SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18200
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18201
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18202
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Tribuna SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18203
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18204
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18205
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Cariri SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18206
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18207
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18208
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Verdes Mares Fortaleza SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18209
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18210
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18211
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda São José dos Campos SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18212
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18213
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18214
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",Vanguarda Taubaté SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18215
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18216
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18217
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Passo Fundo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18218
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18219
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18220
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Santa Maria SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18221
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta de Alagoas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta de Alagoas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18222
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta de Alagoas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta de Alagoas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18223
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta de Alagoas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta de Alagoas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18224
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18225
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18226
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Sinop SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Sinop SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18227
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18228
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18229
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-América Rondonópolis SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Centro-América Rondonópolis SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18230
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18231
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18232
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Corumbá SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Corumbá SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18233
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18234
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18235
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Ponta Porã SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Morena Ponta Porã SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18236
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18237
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18238
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Araxá SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Araxá SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18239
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18240
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18241
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberaba SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Uberaba SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18242
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18243
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18244
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Juiz de Fora SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Integração Juiz de Fora SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18245
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18246
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18247
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Pelotas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Pelotas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18248
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18249
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18250
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Blumenau SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",RBS TV Blumenau SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18251
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18252
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18253
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Gazeta Sul SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18254
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18255
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18256
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Palmas SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globo.png" group-title="Canais | Globo",TV Anhanguera Palmas SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/18257
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19000
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19001
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports SD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19002
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 1 (reprises)" tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | Esportes",UFC Fight Pass 1 (reprises)
+http://hubby.run:80/Visionplay/lSsvVuKxun/19003
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 2 (ao vivo)" tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | Esportes",UFC Fight Pass 2 (ao vivo)
+http://hubby.run:80/Visionplay/lSsvVuKxun/19004
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 3 (ao vivo)" tvg-logo="http://www.fontedecanais.org/logos/canais/ufcfightpass.png" group-title="Canais | Esportes",UFC Fight Pass 3 (ao vivo)
+http://hubby.run:80/Visionplay/lSsvVuKxun/19005
+#EXTINF:-1 tvg-id="114" tvg-name="Combate FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/combate.png" group-title="Canais | Esportes",Combate FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19006
+#EXTINF:-1 tvg-id="114" tvg-name="Combate HD" tvg-logo="http://www.fontedecanais.org/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19007
+#EXTINF:-1 tvg-id="114" tvg-name="Combate SD" tvg-logo="http://www.fontedecanais.org/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19008
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 01" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/19021
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 02" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/19022
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 03" tvg-logo="http://www.fontedecanais.org/logos/canais/primevideo.png" group-title="Canais | Esportes",Amazon Prime Video 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/19023
+#EXTINF:-1 tvg-id="296" tvg-name="Nosso Futebol 01" tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | Esportes",Nosso Futebol 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/19024
+#EXTINF:-1 tvg-id="297" tvg-name="Nosso Futebol 02" tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | Esportes",Nosso Futebol 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/19025
+#EXTINF:-1 tvg-id="298" tvg-name="Nosso Futebol 03" tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | Esportes",Nosso Futebol 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/19026
+#EXTINF:-1 tvg-id="315" tvg-name="Nosso Futebol 04" tvg-logo="http://www.fontedecanais.org/logos/canais/nossofutebol.png" group-title="Canais | Esportes",Nosso Futebol 04
+http://hubby.run:80/Visionplay/lSsvVuKxun/19027
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://www.fontedecanais.org/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 1
+http://hubby.run:80/Visionplay/lSsvVuKxun/19028
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://www.fontedecanais.org/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 2
+http://hubby.run:80/Visionplay/lSsvVuKxun/19029
+#EXTINF:-1 tvg-id="27" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.org/logos/canais/dazn.png" group-title="Canais | Esportes",DAZN 3
+http://hubby.run:80/Visionplay/lSsvVuKxun/19030
+#EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.org/logos/canais/max.png" group-title="Canais | Esportes",MAX 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/19033
+#EXTINF:-1 tvg-id="" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.org/logos/canais/max.png" group-title="Canais | Esportes",MAX 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/19034
+#EXTINF:-1 tvg-id="" tvg-name="MAX 03" tvg-logo="http://www.fontedecanais.org/logos/canais/max.png" group-title="Canais | Esportes",MAX 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/19035
+#EXTINF:-1 tvg-id="" tvg-name="MAX 04" tvg-logo="http://www.fontedecanais.org/logos/canais/max.png" group-title="Canais | Esportes",MAX 04
+http://hubby.run:80/Visionplay/lSsvVuKxun/19036
+#EXTINF:-1 tvg-id="" tvg-name="MAX 05" tvg-logo="http://www.fontedecanais.org/logos/canais/max.png" group-title="Canais | Esportes",MAX 05
+http://hubby.run:80/Visionplay/lSsvVuKxun/19037
+#EXTINF:-1 tvg-id="" tvg-name="Paulistão" tvg-logo="http://i.imgur.com/RJ0zvXe.png" group-title="Canais | Esportes",Paulistão
+http://hubby.run:80/Visionplay/lSsvVuKxun/19038
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://www.fontedecanais.org/logos/canais/starplus.png" group-title="Canais | Esportes",Disney+ 1
+http://hubby.run:80/Visionplay/lSsvVuKxun/19041
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://www.fontedecanais.org/logos/canais/starplus.png" group-title="Canais | Esportes",Disney+ 2
+http://hubby.run:80/Visionplay/lSsvVuKxun/19042
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ 3" tvg-logo="http://www.fontedecanais.org/logos/canais/starplus.png" group-title="Canais | Esportes",Disney+ 3
+http://hubby.run:80/Visionplay/lSsvVuKxun/19043
+#EXTINF:-1 tvg-id="" tvg-name="Furacão TV" tvg-logo="http://www.fontedecanais.org/logos/canais/furacaolive.png" group-title="Canais | Esportes",Furacão TV
+http://hubby.run:80/Visionplay/lSsvVuKxun/19044
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1 TV" tvg-logo="https://i.imgur.com/wW2FygV.png" group-title="Canais | Esportes",FORMULA 1 TV
+http://hubby.run:80/Visionplay/lSsvVuKxun/19045
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 1
+http://hubby.run:80/Visionplay/lSsvVuKxun/19061
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 2
+http://hubby.run:80/Visionplay/lSsvVuKxun/19062
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.imgur.com/1DnqGWV.png" group-title="Canais | Esportes",ELEVEN SPORTS 3
+http://hubby.run:80/Visionplay/lSsvVuKxun/19063
+#EXTINF:-1 tvg-id="329" tvg-name="NSports FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/nsports.png" group-title="Canais | Esportes",NSports FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19064
+#EXTINF:-1 tvg-id="329" tvg-name="NSports HD" tvg-logo="http://www.fontedecanais.org/logos/canais/nsports.png" group-title="Canais | Esportes",NSports HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19065
+#EXTINF:-1 tvg-id="329" tvg-name="NSports SD" tvg-logo="http://www.fontedecanais.org/logos/canais/nsports.png" group-title="Canais | Esportes",NSports SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/19066
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 01" tvg-logo="http://www.fontedecanais.org/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/19068
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 02" tvg-logo="http://www.fontedecanais.org/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/19069
+#EXTINF:-1 tvg-id="" tvg-name="CazeTV 03" tvg-logo="http://www.fontedecanais.org/logos/canais/cazetv.png" group-title="Canais | Esportes",CazeTV 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/19070
+#EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 1
+http://hubby.run:80/Visionplay/lSsvVuKxun/19071
+#EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 2
+http://hubby.run:80/Visionplay/lSsvVuKxun/19072
+#EXTINF:-1 tvg-id="91" tvg-name="Paramount+ 3" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 3
+http://hubby.run:80/Visionplay/lSsvVuKxun/19073
+#EXTINF:-1 tvg-id="92" tvg-name="Paramount+ 4" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="Canais | Esportes",Paramount+ 4
+http://hubby.run:80/Visionplay/lSsvVuKxun/19074
+#EXTINF:-1 tvg-id="" tvg-name="Remo TV" tvg-logo="https://i.imgur.com/8xs3GlH.png" group-title="Canais | Esportes",Remo TV
+http://hubby.run:80/Visionplay/lSsvVuKxun/19077
+#EXTINF:-1 tvg-id="" tvg-name="PapãoTV" tvg-logo="http://i.imgur.com/DkmiaX7.png" group-title="Canais | Esportes",PapãoTV
+http://hubby.run:80/Visionplay/lSsvVuKxun/19078
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 01" tvg-logo="http://www.fontedecanais.org/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 01
+http://hubby.run:80/Visionplay/lSsvVuKxun/19080
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 02" tvg-logo="http://www.fontedecanais.org/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 02
+http://hubby.run:80/Visionplay/lSsvVuKxun/19081
+#EXTINF:-1 tvg-id="" tvg-name="Canal Goat 03" tvg-logo="http://www.fontedecanais.org/logos/canais/canalgoat.png" group-title="Canais | Esportes",Canal Goat 03
+http://hubby.run:80/Visionplay/lSsvVuKxun/19082
+#EXTINF:-1 tvg-id="107" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",﻿Premiere 1 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20000
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20001
+#EXTINF:-1 tvg-id="107" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 1 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20002
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20003
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20004
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 2 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20005
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20006
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20007
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 3 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20008
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20009
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20010
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 4 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20011
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20012
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20013
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 5 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20014
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20015
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20016
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 6 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20017
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20018
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20019
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 7 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20020
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20021
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20022
+#EXTINF:-1 tvg-id="351" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/premiere.png" group-title="Canais | Premiere",Premiere 8 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/20023
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21000
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21001
+#EXTINF:-1 tvg-id="30" tvg-name="SporTV SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv.png" group-title="Canais | SporTV",SporTV SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21002
+#EXTINF:-1 tvg-id="31" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21003
+#EXTINF:-1 tvg-id="31" tvg-name="SporTV 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21004
+#EXTINF:-1 tvg-id="31" tvg-name="SporTV 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv2.png" group-title="Canais | SporTV",SporTV 2 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21005
+#EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21006
+#EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21007
+#EXTINF:-1 tvg-id="32" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv3.png" group-title="Canais | SporTV",SporTV 3 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21008
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21009
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21010
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 4 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/sportv4.png" group-title="Canais | SporTV",SporTV 4 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/21011
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22000
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22001
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn.png" group-title="Canais | ESPN",ESPN SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22002
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22003
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22004
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22005
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22006
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22007
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn3.png" group-title="Canais | ESPN",ESPN 3 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22008
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22009
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22010
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn4.png" group-title="Canais | ESPN",ESPN 4 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22011
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22012
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22013
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 5 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn5.png" group-title="Canais | ESPN",ESPN 5 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22014
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22015
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22016
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/espn6.png" group-title="Canais | ESPN",ESPN 6 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/22017
+#EXTINF:-1 tvg-id="15" tvg-name="Animal Planet FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23000
+#EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23001
+#EXTINF:-1 tvg-id="15" tvg-name="Animal Planet SD" tvg-logo="http://www.fontedecanais.org/logos/canais/animalplanet.png" group-title="Canais | Documentários",Animal Planet SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23002
+#EXTINF:-1 tvg-id="34" tvg-name="Arte1 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23003
+#EXTINF:-1 tvg-id="34" tvg-name="Arte1 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23004
+#EXTINF:-1 tvg-id="34" tvg-name="Arte1 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/arte1.png" group-title="Canais | Documentários",Arte1 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23005
+#EXTINF:-1 tvg-id="19" tvg-name="Curta! FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/curta.png" group-title="Canais | Documentários",Curta! FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23006
+#EXTINF:-1 tvg-id="19" tvg-name="Curta! HD" tvg-logo="http://www.fontedecanais.org/logos/canais/curta.png" group-title="Canais | Documentários",Curta! HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23007
+#EXTINF:-1 tvg-id="19" tvg-name="Curta! SD" tvg-logo="http://www.fontedecanais.org/logos/canais/curta.png" group-title="Canais | Documentários",Curta! SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23008
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23009
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23010
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverychannel.png" group-title="Canais | Documentários",Discovery Channel SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23011
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23012
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23013
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryscience.png" group-title="Canais | Documentários",Discovery Science SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23014
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery Theater FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23015
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery Theater HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23016
+#EXTINF:-1 tvg-id="117" tvg-name="Discovery Theater SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverytheater.png" group-title="Canais | Documentários",Discovery Theater SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23017
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23018
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23019
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoveryworld.png" group-title="Canais | Documentários",Discovery World SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23020
+#EXTINF:-1 tvg-id="85" tvg-name="H2 FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/h2.png" group-title="Canais | Documentários",H2 FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23021
+#EXTINF:-1 tvg-id="85" tvg-name="H2 HD" tvg-logo="http://www.fontedecanais.org/logos/canais/h2.png" group-title="Canais | Documentários",H2 HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23022
+#EXTINF:-1 tvg-id="85" tvg-name="H2 SD" tvg-logo="http://www.fontedecanais.org/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23023
+#EXTINF:-1 tvg-id="115" tvg-name="HGTV FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23024
+#EXTINF:-1 tvg-id="115" tvg-name="HGTV HD" tvg-logo="http://www.fontedecanais.org/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23025
+#EXTINF:-1 tvg-id="115" tvg-name="HGTV SD" tvg-logo="http://www.fontedecanais.org/logos/canais/hgtv.png" group-title="Canais | Documentários",HGTV SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23026
+#EXTINF:-1 tvg-id="84" tvg-name="History FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/history.png" group-title="Canais | Documentários",History FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23027
+#EXTINF:-1 tvg-id="84" tvg-name="History HD" tvg-logo="http://www.fontedecanais.org/logos/canais/history.png" group-title="Canais | Documentários",History HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23028
+#EXTINF:-1 tvg-id="84" tvg-name="History SD" tvg-logo="http://www.fontedecanais.org/logos/canais/history.png" group-title="Canais | Documentários",History SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23029
+#EXTINF:-1 tvg-id="13" tvg-name="ID: Investigação Discovery FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23030
+#EXTINF:-1 tvg-id="13" tvg-name="ID: Investigação Discovery HD" tvg-logo="http://www.fontedecanais.org/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23031
+#EXTINF:-1 tvg-id="13" tvg-name="ID: Investigação Discovery SD" tvg-logo="http://www.fontedecanais.org/logos/canais/id.png" group-title="Canais | Documentários",ID: Investigação Discovery SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/23032
+#EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24003
+#EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24004
+#EXTINF:-1 tvg-id="2" tvg-name="Cartoon Network SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24005
+#EXTINF:-1 tvg-id="11" tvg-name="Cartoonito FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24006
+#EXTINF:-1 tvg-id="11" tvg-name="Cartoonito HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24007
+#EXTINF:-1 tvg-id="11" tvg-name="Cartoonito SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24008
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Kids FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24009
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Kids HD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24010
+#EXTINF:-1 tvg-id="1" tvg-name="Discovery Kids SD" tvg-logo="http://www.fontedecanais.org/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24011
+#EXTINF:-1 tvg-id="93" tvg-name="Gloob FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24015
+#EXTINF:-1 tvg-id="93" tvg-name="Gloob HD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24016
+#EXTINF:-1 tvg-id="93" tvg-name="Gloob SD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24017
+#EXTINF:-1 tvg-id="94" tvg-name="Gloobinho FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24018
+#EXTINF:-1 tvg-id="94" tvg-name="Gloobinho HD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24019
+#EXTINF:-1 tvg-id="94" tvg-name="Gloobinho SD" tvg-logo="http://www.fontedecanais.org/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24020
+#EXTINF:-1 tvg-id="17" tvg-name="Nick Jr FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24021
+#EXTINF:-1 tvg-id="17" tvg-name="Nick Jr HD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24022
+#EXTINF:-1 tvg-id="17" tvg-name="Nick Jr SD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickjr.png" group-title="Canais | Infantis",Nick Jr SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24023
+#EXTINF:-1 tvg-id="3" tvg-name="Nickelodeon FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24024
+#EXTINF:-1 tvg-id="3" tvg-name="Nickelodeon HD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24025
+#EXTINF:-1 tvg-id="3" tvg-name="Nickelodeon SD" tvg-logo="http://www.fontedecanais.org/logos/canais/nickelodeon.png" group-title="Canais | Infantis",Nickelodeon SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24026
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24027
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24028
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tooncast.png" group-title="Canais | Infantis",Tooncast SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24029
+#EXTINF:-1 tvg-id="49" tvg-name="ZooMoo FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24030
+#EXTINF:-1 tvg-id="49" tvg-name="ZooMoo HD" tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24031
+#EXTINF:-1 tvg-id="49" tvg-name="ZooMoo SD" tvg-logo="http://www.fontedecanais.org/logos/canais/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24032
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24039
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum HD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24040
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum SD" tvg-logo="http://www.fontedecanais.org/logos/canais/tvratimbum.png" group-title="Canais | Infantis",TV Rá Tim Bum SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/24041
+#EXTINF:-1 tvg-id="6" tvg-name="Band News FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25000
+#EXTINF:-1 tvg-id="6" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25001
+#EXTINF:-1 tvg-id="6" tvg-name="Band News SD" tvg-logo="http://www.fontedecanais.org/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25002
+#EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25003
+#EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25004
+#EXTINF:-1 tvg-id="77" tvg-name="CNN Brasil SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnbrasil.png" group-title="Canais | Notícias",CNN Brasil SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25005
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25006
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25007
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News SD" tvg-logo="http://www.fontedecanais.org/logos/canais/globonews.png" group-title="Canais | Notícias",Globo News SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25008
+#EXTINF:-1 tvg-id="187" tvg-name="Jovem Pan News FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25009
+#EXTINF:-1 tvg-id="187" tvg-name="Jovem Pan News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25010
+#EXTINF:-1 tvg-id="187" tvg-name="Jovem Pan News SD" tvg-logo="http://www.fontedecanais.org/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25011
+#EXTINF:-1 tvg-id="182" tvg-name="Record News FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25012
+#EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25013
+#EXTINF:-1 tvg-id="182" tvg-name="Record News SD" tvg-logo="http://www.fontedecanais.org/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25014
+#EXTINF:-1 tvg-id="349" tvg-name="CNN Money FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25015
+#EXTINF:-1 tvg-id="349" tvg-name="CNN Money HD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25016
+#EXTINF:-1 tvg-id="349" tvg-name="CNN Money SD" tvg-logo="http://www.fontedecanais.org/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25017
+#EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25018
+#EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) HD" tvg-logo="http://www.fontedecanais.org/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25019
+#EXTINF:-1 tvg-id="339" tvg-name="Times Brasil (CNBC) SD" tvg-logo="http://www.fontedecanais.org/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25020
+#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL FHD" tvg-logo="http://www.fontedecanais.org/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL FHD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25021
+#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL HD" tvg-logo="http://www.fontedecanais.org/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL HD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25022
+#EXTINF:-1 tvg-id="352" tvg-name="Canal UOL SD" tvg-logo="http://www.fontedecanais.org/logos/canais/canaluol.png" group-title="Canais | Notícias",Canal UOL SD
+http://hubby.run:80/Visionplay/lSsvVuKxun/25023
+#EXTINF:-1 tvg-id="300" tvg-name="Canção Nova" tvg-logo="http://www.fontedecanais.org/logos/canais/cancaonova.png" group-title="Canais | Religiosos",Canção Nova
+http://hubby.run:80/Visionplay/lSsvVuKxun/26000
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedecanais.org/logos/canais/novotempo.png" group-title="Canais | Religiosos",Novo Tempo
+http://hubby.run:80/Visionplay/lSsvVuKxun/26001
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia" tvg-logo="http://www.fontedecanais.org/logos/canais/redefamilia.png" group-title="Canais | Religiosos",Rede Familia
+http://hubby.run:80/Visionplay/lSsvVuKxun/26002
+#EXTINF:-1 tvg-id="59" tvg-name="Rede Gospel" tvg-logo="http://www.fontedecanais.org/logos/canais/redegospel.png" group-title="Canais | Religiosos",Rede Gospel
+http://hubby.run:80/Visionplay/lSsvVuKxun/26003
+#EXTINF:-1 tvg-id="60" tvg-name="Rede Vida" tvg-logo="http://www.fontedecanais.org/logos/canais/redevida.png" group-title="Canais | Religiosos",Rede Vida
+http://hubby.run:80/Visionplay/lSsvVuKxun/26004
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT" tvg-logo="http://www.fontedecanais.org/logos/canais/cnt.png" group-title="Canais | Religiosos",Rede CNT
+http://hubby.run:80/Visionplay/lSsvVuKxun/26005
+#EXTINF:-1 tvg-id="320" tvg-name="TV Aparecida" tvg-logo="http://www.fontedecanais.org/logos/canais/tvaparecida.png" group-title="Canais | Religiosos",TV Aparecida
+http://hubby.run:80/Visionplay/lSsvVuKxun/26006
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="http://www.fontedecanais.org/logos/canais/tvpaieterno.png" group-title="Canais | Religiosos",TV Pai Eterno
+http://hubby.run:80/Visionplay/lSsvVuKxun/26007
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV" tvg-logo="http://www.fontedecanais.org/logos/canais/rbitv.png" group-title="Canais | Religiosos",RBI TV
+http://hubby.run:80/Visionplay/lSsvVuKxun/26008
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://www.fontedecanais.org/logos/canais/tvevangelizar.png" group-title="Canais | Religiosos",TV Evangelizar
+http://hubby.run:80/Visionplay/lSsvVuKxun/26009
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Os Simpsons
+http://hubby.run:80/Visionplay/lSsvVuKxun/27000
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chaves
+http://hubby.run:80/Visionplay/lSsvVuKxun/27001
+#EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Chapolin Colorado
+http://hubby.run:80/Visionplay/lSsvVuKxun/27002
+#EXTINF:-1 tvg-id="" tvg-name="24H Eu, a Patroa e as Crianças" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Eu, a Patroa e as Crianças
+http://hubby.run:80/Visionplay/lSsvVuKxun/27003
+#EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dois Homens e Meio
+http://hubby.run:80/Visionplay/lSsvVuKxun/27004
+#EXTINF:-1 tvg-id="" tvg-name="24H Bob Esponja Calça Quadrada" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Bob Esponja Calça Quadrada
+http://hubby.run:80/Visionplay/lSsvVuKxun/27005
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Uzumaki" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Uzumaki
+http://hubby.run:80/Visionplay/lSsvVuKxun/27006
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Shippuden" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Naruto Shippuden
+http://hubby.run:80/Visionplay/lSsvVuKxun/27007
+#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Um Maluco no Pedaço
+http://hubby.run:80/Visionplay/lSsvVuKxun/27008
+#EXTINF:-1 tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H iCarly Revival
+http://hubby.run:80/Visionplay/lSsvVuKxun/27009
+#EXTINF:-1 tvg-id="" tvg-name="24H South Park" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H South Park
+http://hubby.run:80/Visionplay/lSsvVuKxun/27010
+#EXTINF:-1 tvg-id="" tvg-name="24H Steven Universo" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Steven Universo
+http://hubby.run:80/Visionplay/lSsvVuKxun/27011
+#EXTINF:-1 tvg-id="" tvg-name="24H Truques da Mente" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Truques da Mente
+http://hubby.run:80/Visionplay/lSsvVuKxun/27012
+#EXTINF:-1 tvg-id="" tvg-name="24H Largados e Pelados" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Largados e Pelados
+http://hubby.run:80/Visionplay/lSsvVuKxun/27013
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Todo Mundo Odeia o Chris
+http://hubby.run:80/Visionplay/lSsvVuKxun/27014
+#EXTINF:-1 tvg-id="" tvg-name="24H Dragon Ball Z" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Dragon Ball Z
+http://hubby.run:80/Visionplay/lSsvVuKxun/27015
+#EXTINF:-1 tvg-id="" tvg-name="24H Digimon Adventure" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Digimon Adventure
+http://hubby.run:80/Visionplay/lSsvVuKxun/27016
+#EXTINF:-1 tvg-id="" tvg-name="24H Snoopy" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Snoopy
+http://hubby.run:80/Visionplay/lSsvVuKxun/27017
+#EXTINF:-1 tvg-id="" tvg-name="24h Big Bang: A Teoria" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Big Bang: A Teoria
+http://hubby.run:80/Visionplay/lSsvVuKxun/27018
+#EXTINF:-1 tvg-id="" tvg-name="24h Boku no Hero Academia" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24h Boku no Hero Academia
+http://hubby.run:80/Visionplay/lSsvVuKxun/27019
+#EXTINF:-1 tvg-id="" tvg-name="24H Apenas um Show" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Apenas um Show
+http://hubby.run:80/Visionplay/lSsvVuKxun/27020
+#EXTINF:-1 tvg-id="" tvg-name="24H BoJack Horseman" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H BoJack Horseman
+http://hubby.run:80/Visionplay/lSsvVuKxun/27021
+#EXTINF:-1 tvg-id="" tvg-name="24H Galinha Pintadinha" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Galinha Pintadinha
+http://hubby.run:80/Visionplay/lSsvVuKxun/27022
+#EXTINF:-1 tvg-id="" tvg-name="24H Futurama" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Futurama
+http://hubby.run:80/Visionplay/lSsvVuKxun/27023
+#EXTINF:-1 tvg-id="" tvg-name="24H DPA - Detetives do Predio Azul" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H DPA - Detetives do Predio Azul
+http://hubby.run:80/Visionplay/lSsvVuKxun/27024
+#EXTINF:-1 tvg-id="" tvg-name="24H Familia Dinoussauros" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Familia Dinoussauros
+http://hubby.run:80/Visionplay/lSsvVuKxun/27025
+#EXTINF:-1 tvg-id="" tvg-name="24H Aeroporto Area Restrita" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Aeroporto Area Restrita
+http://hubby.run:80/Visionplay/lSsvVuKxun/27026
+#EXTINF:-1 tvg-id="" tvg-name="24H As Visões da Raven" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H As Visões da Raven
+http://hubby.run:80/Visionplay/lSsvVuKxun/27027
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Ação" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Ação
+http://hubby.run:80/Visionplay/lSsvVuKxun/27028
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Animação Infantil" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Animação Infantil
+http://hubby.run:80/Visionplay/lSsvVuKxun/27029
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Comédia" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Comédia
+http://hubby.run:80/Visionplay/lSsvVuKxun/27030
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Drama" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Drama
+http://hubby.run:80/Visionplay/lSsvVuKxun/27031
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Romance" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Romance
+http://hubby.run:80/Visionplay/lSsvVuKxun/27032
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Suspense" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Suspense
+http://hubby.run:80/Visionplay/lSsvVuKxun/27033
+#EXTINF:-1 tvg-id="" tvg-name="24H Filmes Lancamentos" tvg-logo="http://www.fontedecanais.org/logos/canais/24h.png" group-title="Canais | 24 Horas",24H Filmes Lancamentos
+http://hubby.run:80/Visionplay/lSsvVuKxun/27034
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="" group-title="Canais | XXX Adultos",PLAYBOY
+http://hubby.run:80/Visionplay/lSsvVuKxun/28000
+#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE" tvg-logo="" group-title="Canais | XXX Adultos",SEX PRIVE
+http://hubby.run:80/Visionplay/lSsvVuKxun/28001
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="" group-title="Canais | XXX Adultos",SEXTREME
+http://hubby.run:80/Visionplay/lSsvVuKxun/28002
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="" group-title="Canais | XXX Adultos",SEXY HOT
+http://hubby.run:80/Visionplay/lSsvVuKxun/28003
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="" group-title="Canais | XXX Adultos",VENUS
+http://hubby.run:80/Visionplay/lSsvVuKxun/28004
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Erotic TV Online" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Erotic TV Online
+http://hubby.run:80/Visionplay/lSsvVuKxun/28005
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Web Tv" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Web Tv
+http://hubby.run:80/Visionplay/lSsvVuKxun/28006
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore Videos Non Stop" tvg-logo="" group-title="Canais | XXX Adultos",Hardcore Videos Non Stop
+http://hubby.run:80/Visionplay/lSsvVuKxun/28007
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online POV" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online POV
+http://hubby.run:80/Visionplay/lSsvVuKxun/28008
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Pornstar" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Pornstar
+http://hubby.run:80/Visionplay/lSsvVuKxun/28009
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Milfs" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Milfs
+http://hubby.run:80/Visionplay/lSsvVuKxun/28010
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Live Cams" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Live Cams
+http://hubby.run:80/Visionplay/lSsvVuKxun/28011
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Lesbian" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Lesbian
+http://hubby.run:80/Visionplay/lSsvVuKxun/28012
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV online Latina" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV online Latina
+http://hubby.run:80/Visionplay/lSsvVuKxun/28013
+#EXTINF:-1 tvg-id="" tvg-name="Adult TV Online Interracial" tvg-logo="" group-title="Canais | XXX Adultos",Adult TV Online Interracial
+http://hubby.run:80/Visionplay/lSsvVuKxun/28014
+#EXTINF:-1 tvg-id="" tvg-name="Live Adult TV Hardcore" tvg-logo="" group-title="Canais | XXX Adultos",Live Adult TV Hardcore
+http://hubby.run:80/Visionplay/lSsvVuKxun/28015
+#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Brunette" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Brunette
+http://hubby.run:80/Visionplay/lSsvVuKxun/28016
+#EXTINF:-1 tvg-id="" tvg-name="Adult IPTV Sexy Blondes" tvg-logo="" group-title="Canais | XXX Adultos",Adult IPTV Sexy Blondes
+http://hubby.run:80/Visionplay/lSsvVuKxun/28017
